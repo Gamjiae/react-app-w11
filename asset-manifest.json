@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-app-w11/static/css/main.8e5dd26d.css",
+    "main.js": "/react-app-w11/static/js/main.59a2e85a.js",
+    "static/js/787.a95fb292.chunk.js": "/react-app-w11/static/js/787.a95fb292.chunk.js",
+    "static/media/dwarfhamster.jpg": "/react-app-w11/static/media/dwarfhamster.8cdfaf467fe26418f0c1.jpg",
+    "static/media/hamster.webp": "/react-app-w11/static/media/hamster.95709cecee17656f73e7.webp",
+    "static/media/puddinghamster.webp": "/react-app-w11/static/media/puddinghamster.566476463121cb0b6949.webp",
+    "index.html": "/react-app-w11/index.html",
+    "main.8e5dd26d.css.map": "/react-app-w11/static/css/main.8e5dd26d.css.map",
+    "main.59a2e85a.js.map": "/react-app-w11/static/js/main.59a2e85a.js.map",
+    "787.a95fb292.chunk.js.map": "/react-app-w11/static/js/787.a95fb292.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e5dd26d.css",
+    "static/js/main.59a2e85a.js"
+  ]
+}
